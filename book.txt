@@ -1,0 +1,16 @@
+B100,CS,data,wang,nb,1999,12,10
+B002,CS,china computer,wang,nb,1980,7.8,10
+B003,CS,fsfd,li,nb,2013,10,10
+C004,math,sdfds,wangxin,china,1930,22.5,10
+C005,math,dsfd,pl,nb,1980,32,10
+C006,art,dsfds,love,nb,2001,233,10
+C007,art,df,zhang,nb,1999,45,10
+C008,art,dsf,wangxin,nb,1945,55,10
+C009,PE,sdeddf,wangxin,nb,2000,20,10
+C010,PE,cdfdgs,tmac,nb,1990,14.5,10
+C011,PE,footballgame,kobe,nb,1930,100,10
+X001,language,English,JK,china,1988,122,2
+X002,language,French,JK,china,1999,22,20
+X003,language,English speaking,zhang san,china,2005,23.5,5
+X004,language,Japanese,WX,japan,1945,67,6
+X005,language,ABC,jack,USA,1998,12.6,10
